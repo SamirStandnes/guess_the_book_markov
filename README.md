@@ -1,4 +1,10 @@
-# markov_python
+#book_guess_markov (developer note)
+This is a book quiz. Run the game in the terminal. 
+The game is an implementation of a markov chain text generator module provide by Codeacademy (see below). 
+You can add more books to the game by inserting link(s) to the books_list list in run.py (more info on adding books in run.py file)
+
+
+## markov_python
 Codecademy Markov Chain text generator module.
 This is an implementation of a [Markov Chain](https://en.wikipedia.org/wiki/Markov_chain) that generates random text based on content provided by the user. It is designed to be used as a local Python module for instructional purposes.
 
