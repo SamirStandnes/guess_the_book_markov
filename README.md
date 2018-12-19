@@ -1,7 +1,7 @@
 ## guess_the_book_markov
-This is a book quiz. Run the game in the terminal.  
+This is a book quiz. Run the game in the terminal. You can add more books to the game by inserting link(s) to the `books_list list` in `run.py` (more info on adding books in run.py file)  
 The game is an implementation of a markov chain text generator module provide by Codeacademy (see below).  
-You can add more books to the game by inserting link(s) to the books_list list in run.py (more info on adding books in run.py file)
+
 
 ### markov_python
 Codecademy Markov Chain text generator module.
