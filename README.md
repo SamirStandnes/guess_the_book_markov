@@ -3,6 +3,7 @@ This is a book quiz. Run the game in the terminal. You can add more books to the
   
 The game is an implementation of a markov chain text generator module provide by Codeacademy (see below).  
 
+`run.py` in the terminal to play
 
 ### markov_python
 Codecademy Markov Chain text generator module.
